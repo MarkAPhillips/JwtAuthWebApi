@@ -11,16 +11,3 @@ C:\Users\Narayana\Desktop\JwtAuthWebApi\Security\bin\Debug\System.Web.Http.xml
 C:\Users\Narayana\Desktop\JwtAuthWebApi\Security\obj\Debug\Security.csprojResolveAssemblyReference.cache
 C:\Users\Narayana\Desktop\JwtAuthWebApi\Security\obj\Debug\Security.dll
 C:\Users\Narayana\Desktop\JwtAuthWebApi\Security\obj\Debug\Security.pdb
-F:\GitHub\JwtAuthWebApi\JwtAuthWebApi\Security\bin\Debug\Security.dll
-F:\GitHub\JwtAuthWebApi\JwtAuthWebApi\Security\bin\Debug\Security.pdb
-F:\GitHub\JwtAuthWebApi\JwtAuthWebApi\Security\bin\Debug\Newtonsoft.Json.dll
-F:\GitHub\JwtAuthWebApi\JwtAuthWebApi\Security\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
-F:\GitHub\JwtAuthWebApi\JwtAuthWebApi\Security\bin\Debug\System.Net.Http.Formatting.dll
-F:\GitHub\JwtAuthWebApi\JwtAuthWebApi\Security\bin\Debug\System.Web.Http.dll
-F:\GitHub\JwtAuthWebApi\JwtAuthWebApi\Security\bin\Debug\Newtonsoft.Json.xml
-F:\GitHub\JwtAuthWebApi\JwtAuthWebApi\Security\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
-F:\GitHub\JwtAuthWebApi\JwtAuthWebApi\Security\bin\Debug\System.Net.Http.Formatting.xml
-F:\GitHub\JwtAuthWebApi\JwtAuthWebApi\Security\bin\Debug\System.Web.Http.xml
-F:\GitHub\JwtAuthWebApi\JwtAuthWebApi\Security\obj\Debug\Security.csprojResolveAssemblyReference.cache
-F:\GitHub\JwtAuthWebApi\JwtAuthWebApi\Security\obj\Debug\Security.dll
-F:\GitHub\JwtAuthWebApi\JwtAuthWebApi\Security\obj\Debug\Security.pdb
